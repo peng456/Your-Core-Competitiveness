@@ -24,4 +24,4 @@
 5、技能，从 ”前“ to "后"：
   html、JS、JQuery、VUE(需要学习) ===》协议：http、websocket、     LVS、nginx、apache  + PHP_moudule  + PHP-fpm + php + PHP框架 + mysql 连接（原生、连接池） 中间件、 数据库（mysql、文件、redis） 、缓存（redis、程序内存、内核内存、消息队列）
   
-  
+6、这写的什么 乱七八糟！！！
